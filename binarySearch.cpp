@@ -1,3 +1,6 @@
+/* Abiseno Arya Pramodana */
+/* simple recursive binarySearch*/
+/*=====================================================================================*/
 #include <iostream>
 
 int binarySearch(int arr[],int mid, int num, int arrL); // prototyping a function for binary search
